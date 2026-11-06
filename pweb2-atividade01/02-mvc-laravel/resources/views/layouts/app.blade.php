@@ -37,6 +37,13 @@
         .preco { font-size: 18px; color: #16a34a; font-weight: bold; margin: 0; }
 
         a.voltar { display: inline-block; margin: 16px 0; color: #4f46e5; text-decoration: none; font-weight: bold; }
+
+        /* Descrição curta dentro do card de categoria. */
+        .sub-card { color: #64748b; font-size: 13px; margin: 6px 0 0; line-height: 1.45; }
+
+        /* Título de seção (ex.: "Produtos desta categoria"). */
+        .secao { font-size: 18px; margin: 28px 0 12px; }
+
         .detalhe {
             background: #fff; border: 1px solid #e2e8f0; border-radius: 16px;
             padding: 36px; display: flex; gap: 28px; align-items: center; flex-wrap: wrap;
